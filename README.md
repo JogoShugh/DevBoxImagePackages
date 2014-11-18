@@ -1,7 +1,7 @@
 DevBoxImagePackages
 ===================
 
-To install all this software into a clean baseline computer, install Chocolatey from Powershell by typing:
+To install all this software into a clean baseline computer, first install Chocolatey from Powershell by typing:
 
 ```powershell
 iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))
